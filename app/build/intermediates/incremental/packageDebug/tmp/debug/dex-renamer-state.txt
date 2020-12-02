@@ -1,0 +1,4 @@
+#Mon Aug 26 17:00:25 PDT 2019
+base.0=D\:\\Pelatihan\\MuslimApps3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
