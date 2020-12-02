@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:src="@drawable/kaligrafi_bismillah"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/btnRukunIslam"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Rukun Islam"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        android:id="@+id/btnRukunIman"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Rukun Iman"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        android:id="@+id/btnNamaMalaikat"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Nama-nama Malaikat"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        android:id="@+id/btnNabi"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Nama-nama Nabi dan Rasul"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+    <Button
+        android:id="@+id/btnZakat"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Kalkulator Zakat"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+
+    <Button
+        android:id="@+id/btnCatatan"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Catatan"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+
+    <Button
+        android:id="@+id/btnTentang"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:text="Tentang Aplikasi"
+        android:textColor="#FFF"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        />
+
+</LinearLayout>
